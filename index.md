@@ -1,12 +1,12 @@
-# FamilyFuel — Privacy Policy
+# BiteWise — Privacy Policy
 
-*Effective date: July 3, 2026*
+*Effective date: July 5, 2026*
 
-FamilyFuel ("the app") is a nutrition and health tracker for you and your family. We designed it to be **private by default**: your data stays on your device.
+BiteWise ("the app") is a nutrition and health tracker for you and your family. We designed it to be **private by default**: your data stays on your device.
 
 ## Data we collect
 
-None. FamilyFuel has no accounts, no servers, and no analytics, advertising, or tracking. We do not collect, transmit, or sell any personal or health information.
+None. BiteWise has no accounts, no servers, and no analytics, advertising, or tracking. We do not collect, transmit, or sell any personal or health information.
 
 ## Where your data lives
 
