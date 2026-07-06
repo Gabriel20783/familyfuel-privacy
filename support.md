@@ -1,6 +1,6 @@
-# BiteWise — Support
+# Kcalm — Support
 
-Need a hand with **BiteWise**? We're happy to help.
+Need a hand with **Kcalm**? We're happy to help.
 
 **Contact:** FamilyFuel@proton.me
 We usually reply within a couple of days.
@@ -8,7 +8,7 @@ We usually reply within a couple of days.
 ## Common questions
 
 **Is my data private?**
-Yes. BiteWise stores everything **on your device** — no accounts, no servers, no ads, no tracking. See our [Privacy Policy](./).
+Yes. Kcalm stores everything **on your device** — no accounts, no servers, no ads, no tracking. See our [Privacy Policy](./).
 
 **How do I log food?**
 Open the **Log** tab and speak your meal ("2 eggs and a coffee for breakfast"), scan a barcode, or type it.

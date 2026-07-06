@@ -1,12 +1,12 @@
-# BiteWise — Privacy Policy
+# Kcalm — Privacy Policy
 
 *Effective date: July 5, 2026*
 
-BiteWise ("the app") is a nutrition and health tracker for you and your family. We designed it to be **private by default**: your data stays on your device.
+Kcalm ("the app") is a nutrition and health tracker for you and your family. We designed it to be **private by default**: your data stays on your device.
 
 ## Data we collect
 
-None. BiteWise has no accounts, no servers, and no analytics, advertising, or tracking. We do not collect, transmit, or sell any personal or health information.
+None. Kcalm has no accounts, no servers, and no analytics, advertising, or tracking. We do not collect, transmit, or sell any personal or health information.
 
 ## Where your data lives
 
